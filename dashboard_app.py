@@ -5,7 +5,6 @@ import plotly.express as px
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 from sklearn_extra.cluster import KMedoids
-from fcmeans import FCM
 
 pn.extension('plotly')
 
