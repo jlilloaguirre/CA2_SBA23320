@@ -1,6 +1,9 @@
-panel
-plotly
-pandas
-numpy
-scikit-learn
-scikit-learn-extra
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.2.2
+scikit-learn-extra==0.3.0
+panel==1.6.3
+plotly==6.0.1
+matplotlib==3.10.0
+seaborn==0.13.2
+fcmeans==1.7.2
